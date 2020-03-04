@@ -1,2 +1,2 @@
 # simple_website
-Aufgabe für den Webprommierung-Kurs
+Prüfungsaufgabe für den Webprommierung-Kurs
